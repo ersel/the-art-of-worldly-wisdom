@@ -5,3 +5,5 @@ The Art of Worldly Wisdom (Spanish: Oráculo Manual y Arte de Prudencia) is a bo
 This repo contains a shell script `maxims.sh` which will print a random maxim to standard output. All maxims can be found in the `maxims` file.
 
 Just add a call to the shell script `maxims.sh` from your `~/.bashrc` or `~/.bash_profile` if you want to get a random maxim everytime you open your shell.
+
+If you like this, you might also be interested in a [collection of quotes from Epictetus, Marcus Aurelius and Seneca as a shell script here.](https://github.com/ersel/stoic-thoughts)
